@@ -16,14 +16,12 @@
 
 ## Featured Projects
 
-| Project | Description | Link |
-|---|---|---|
-| NSZ Converter | Android app for converting (decompressing) NSZ files to NSP format | [Repository](https://github.com/duck-psycho/nsz-converter) |
-| Telegram Proxy Finder | Android app for finding working MTProto proxies for Telegram with local verification | [Repository](https://github.com/duck-psycho/telegram-proxy-finder) |
-| Telegram Reader | Android app for reading public Telegram channels without the Telegram client | [Repository](https://github.com/duck-psycho/telegram-reader) |
-| Derecorder | Python GUI app for transcribing voice recordings into notes locally with OpenAI Whisper — no cloud upload | [Repository](https://github.com/duck-psycho/derecorder) |
-| Tinfoil Server (Android) | Android-based Tinfoil server to host and stream Nintendo Switch games for direct network installation | [Repository](https://github.com/duck-psycho/tinfoil-android) |
-| Claude Usage Tray | System tray app showing Claude Code's 5-hour session usage as a live percentage on the icon | [Repository](https://github.com/duck-psycho/claude-usage-tray) |
+- **[NSZ Converter](https://github.com/duck-psycho/nsz-converter)** — Android app to decompress Nintendo Switch NSZ dumps into NSP.
+- **[Telegram Proxy Finder](https://github.com/duck-psycho/telegram-proxy-finder)** — Android app that finds and verifies working MTProto proxies on-device.
+- **[Telegram Reader](https://github.com/duck-psycho/telegram-reader)** — Android app to read public Telegram channels without the Telegram client.
+- **[Derecorder](https://github.com/duck-psycho/derecorder)** — Desktop app for local voice-to-notes transcription with Whisper — nothing leaves your machine.
+- **[Tinfoil Server (Android)](https://github.com/duck-psycho/tinfoil-android)** — Turn an Android phone into a Tinfoil server to install Switch games over the network.
+- **[Claude Usage Tray](https://github.com/duck-psycho/claude-usage-tray)** — System tray icon showing Claude Code’s 5-hour session usage as a live percentage.
 
 ---
 
