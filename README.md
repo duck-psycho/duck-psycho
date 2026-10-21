@@ -18,6 +18,7 @@
 
 - **[NSZ Converter](https://github.com/duck-psycho/nsz-converter)** — Android app to decompress Nintendo Switch NSZ dumps into NSP.
 - **[Telegram Proxy Finder](https://github.com/duck-psycho/telegram-proxy-finder)** — Android app that finds and verifies working MTProto proxies on-device.
+- **[Ducks](https://github.com/duck-psycho/ducks)** — Terminal multiplexer for CLI agents with project organization, separate tabs, and activity status tracking.
 - **[Telegram Reader](https://github.com/duck-psycho/telegram-reader)** — Android app to read public Telegram channels without the Telegram client, with cross-device sync.
 - **[Telegram Reader Web](https://reader.duckpsycho.dev/)** — Web reader for public Telegram channels with the same feed and subscription sync.
 - **[Derecorder](https://github.com/duck-psycho/derecorder)** — Desktop app for local voice-to-notes transcription with Whisper — nothing leaves your machine.
