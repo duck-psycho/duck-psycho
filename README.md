@@ -23,7 +23,6 @@
 - **[Telegram Reader Web](https://reader.duckpsycho.dev/)** — Web reader for public Telegram channels with the same feed and subscription sync.
 - **[Derecorder](https://github.com/duck-psycho/derecorder)** — Desktop app for local voice-to-notes transcription with Whisper — nothing leaves your machine.
 - **[Tinfoil Server (Android)](https://github.com/duck-psycho/tinfoil-android)** — Turn an Android phone into a Tinfoil server to install Switch games over the network.
-- **[Claude Usage Tray](https://github.com/duck-psycho/claude-usage-tray)** — System tray icon showing Claude Code’s 5-hour session usage as a live percentage.
 
 ---
 
