@@ -21,6 +21,7 @@
 - **[Ducks](https://github.com/duck-psycho/ducks)** — Terminal multiplexer for CLI agents with project organization, separate tabs, and activity status tracking.
 - **[Telegram Reader](https://github.com/duck-psycho/telegram-reader)** — Android app to read public Telegram channels without the Telegram client, with cross-device sync.
 - **[Telegram Reader Web](https://reader.duckpsycho.dev/)** — Web reader for public Telegram channels with the same feed and subscription sync.
+- **[True Chimp Test](https://truechimp.duckpsycho.dev/)** — Visual memory game with five memorization modes, personal bests, and progress tracking.
 - **[Derecorder](https://github.com/duck-psycho/derecorder)** — Desktop app for local voice-to-notes transcription with Whisper — nothing leaves your machine.
 - **[Tinfoil Server (Android)](https://github.com/duck-psycho/tinfoil-android)** — Turn an Android phone into a Tinfoil server to install Switch games over the network.
 - **[TypeScript AI Template](https://github.com/duck-psycho/typescript-ai-template)** — TypeScript starter for AI-assisted development with strict type checks, linting, formatting, and CI.
