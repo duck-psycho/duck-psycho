@@ -1,15 +1,9 @@
 <div align="center">
 
-# Duckpsycho
-
 [![Website](https://img.shields.io/badge/Website-duckpsycho.dev-111111?style=for-the-badge)](https://duckpsycho.dev/)
 [![X](https://img.shields.io/badge/@duckpsycho__dev-000000?style=for-the-badge&logo=x&logoColor=white&label=&labelColor=555&logoAsLabel=1)](https://x.com/duckpsycho_dev)
 [![Boosty](https://img.shields.io/badge/Boosty-Support-orange?style=for-the-badge)](https://boosty.to/duckpsycho)
 
-</div>
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTEzcDBjNnA2aXpranZpeHhhMGozeGd0dGxieHNnNXg5NG5mNHdrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41Ys4Fb5r8hcPhde/giphy.gif" alt="Mr. Robot" />
 </div>
 
 ---
